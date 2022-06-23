@@ -1,7 +1,7 @@
 # HorukraineBot's
 
 ## Perhaps a unique in its kind bot for the grandfather, with great opportunities.
-![](https://ibb.co/wRNrK9b)
+![](https://i.ibb.co/c1cXNGp/1.png)
 ___
 
 ### Unique Features:
