@@ -81,6 +81,12 @@ async def kick(ctx, member: discord.Member = None, *, reason = None):
         await asyncio.sleep(2)
         await member.kick(reason=reason)
 
+        
+@client.command(pass_context=True)
+async def botservers(ctx):
+    await client.say("Кількість серверів, на яких є я існую: " + str(len(client.servers)) + " серверів🤏")
+    
+        
 # Ban user
 @client.command()
 @commands.has_permissions(ban_members = True)
