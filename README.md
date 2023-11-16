@@ -1,43 +1,43 @@
-# HorukraineBot's 💙💛
+# HorukraineBot's
+#### Perhaps a unique in its kind bot for the grandfather, with great opportunities.
 
-## Perhaps a unique in its kind bot for the grandfather, with great opportunities.
-![](https://i.ibb.co/c1cXNGp/1.png)
-___
+
+<img src="/User Card.png">
+
+<h2>Technologies Used:</h2>
+<ul>
+    <li>Python</li>
+    <li>nextcord</li>
+    <li>JSON</li>
+</ul>
+
+---
 
 ### Unique Features:
 
 * **Cryptocurrency exchange rates**
-
 * **Generating a password**
-
 * **Information about IP**
-
 * **Weather forecast**
 
-  ### Links	
+#### Links:	
 
-  #### Main page:
+   #### Main page:
 
-  ##### Link: http://horukraine.mypressonline.com/
+  * ##### Link: http://horukraine.mypressonline.com/
 
   #### Commands list:
 
-  ##### Link: http://horukraine.mypressonline.com/command.html
+  * ##### Link: http://horukraine.mypressonline.com/command.html
 
-  #### Invite to server:
+---
 
-  ##### Link: https://tinyurl.com/28rpy3yt
 
-  ___
-
-  ![](https://icds.ee/wp-content/uploads/2022/03/Artboard-31200-1.png)
-
-  ### Help Ukraine!	
+### Help Ukraine!	
 
   #### To donate money for the Ukrainian army:
 
   #### Link: https://war.ukraine.ua/donate/
 
-  ##### 💙💛 Glory To Ukraine 💙💛
-
+  ###### 💙💛 Glory To Ukraine 💙💛
   
